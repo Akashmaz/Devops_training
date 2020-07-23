@@ -14,6 +14,13 @@
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
       <sonar.login>faff74d8cb559ee0ed1500446f12b3918db42332</sonar.login>
   </properties>
+	
+<properties>
+  <sonar.projectKey>Akashmaz_Devops_training</sonar.projectKey>
+  <sonar.organization>akashmaz</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>19ed4c2612b15c464b6233948d761df08c9329c2</sonar.login>
+</properties>
     
   <dependencies>
     <dependency>
